@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Angular Tutorials</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+	<link rel="stylesheet" href="style/default.css">
+	<script src="bower_components/angular/angular.js"></script>	
+	<script src="bower_components/angular-route/angular-route.js"></script>	
+	<script src="script/application.js"></script>
+	<script src="script/services/employeeData.js"></script>
+	<script src="script/controllers/employeeCtrl.js"></script>
+	<script src="script/controllers/empDetailsCtrl.js"></script>
+	<script src="script/directives/emp-list.js"></script>
+	<script src="script/directives/emp-details.js"></script>
+
+</head>
+<body ng-app="tutorialApp">
+	<div class="main">
+		<div ng-view></div>
+	</div>
+</body>
+</html>

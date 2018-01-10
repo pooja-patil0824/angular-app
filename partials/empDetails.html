@@ -1,0 +1,34 @@
+<div class="details-container">
+	<h5>Employee: <strong> {{fullName}} - {{empID}} </strong>
+	</h5><hr>
+	<form>
+		<strong>Add New Project</strong> <br>
+		<label>Project Id :<input type="text" ng-model="newProject.PId"></label>
+		<label>Account :<input type="text" ng-model="newProject.Acc"></label>
+		<label>Duration :<input type="text" ng-model="newProject.Dur"></label>
+		<label>Location :<input type="text" ng-model="newProject.Loc"></label>
+		<label>Billable :<input type="text" ng-model="newProject.Bill"></label>
+		<button type="button" ng-click="addNewProject(empID, newProject)">Add</button>
+	</form>
+	<table class="emp-details">
+		<caption>Employee Details</caption>
+		<thead>
+			<tr>
+				<th>Project Id</th>
+				<th>Account</th>
+				<th>Duration</th>
+				<th>Location</th>
+				<th>Billable</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="pd in projDetails">
+				<td>{{pd.projectId}}</td>
+				<td>{{pd.Account}}</td>
+				<td>{{pd.Duration}}</td>
+				<td>{{pd.Location}}</td>
+				<td>{{pd.Billable}}</td>
+			</tr>
+		</tbody>
+	</table>
+</div>			

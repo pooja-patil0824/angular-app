@@ -1,0 +1,446 @@
+[  
+   {  
+      "123456":[  
+         {  
+            "name":"Siddhant Awati",
+            "projectDetails":[  
+               {  
+                  "projectId":"BOFAPUN",
+                  "Account":"Bank Of America",
+                  "Duration":"12 months",
+                  "Location":"Hinj Bld-A, Pune ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"CRSUBLR",
+                  "Account":"Credit Suisse",
+                  "Duration":"6 months",
+                  "Location":"DLF Bld-C2, Bangalore",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"O2TELON",
+                  "Account":"O2 Telefonica",
+                  "Duration":"24 months",
+                  "Location":"260 Bath Road, Slough ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"PDPNPUN",
+                  "Account":"Practice Dep Pool",
+                  "Duration":"6 months",
+                  "Location":"DLF Q3, Pune ",
+                  "Billable":"Non Billable"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "357852":[  
+         {  
+            "name":"Pooja Patil",
+            "projectDetails":[  
+               {  
+                  "projectId":"BOFAPUN",
+                  "Account":"Bank Of America",
+                  "Duration":"12 months",
+                  "Location":"Hinj Bld-A, Pune ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"CRSUBLR",
+                  "Account":"Credit Suisse",
+                  "Duration":"6 months",
+                  "Location":"DLF Bld-C2, Bangalore",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"O2TELON",
+                  "Account":"O2 Telefonica",
+                  "Duration":"24 months",
+                  "Location":"260 Bath Road, Slough ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"PDPNPUN",
+                  "Account":"Practice Dep Pool",
+                  "Duration":"6 months",
+                  "Location":"DLF Q3, Pune ",
+                  "Billable":"Non Billable"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "951357":[  
+         {  
+            "name":"Trisha Awati",
+            "projectDetails":[  
+               {  
+                  "projectId":"BOFAPUN",
+                  "Account":"Bank Of America",
+                  "Duration":"12 months",
+                  "Location":"Hinj Bld-A, Pune ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"CRSUBLR",
+                  "Account":"Credit Suisse",
+                  "Duration":"6 months",
+                  "Location":"DLF Bld-C2, Bangalore",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"O2TELON",
+                  "Account":"O2 Telefonica",
+                  "Duration":"24 months",
+                  "Location":"260 Bath Road, Slough ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"PDPNPUN",
+                  "Account":"Practice Dep Pool",
+                  "Duration":"6 months",
+                  "Location":"DLF Q3, Pune ",
+                  "Billable":"Non Billable"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "285825":[  
+         {  
+            "name":"Pooja Patil",
+            "projectDetails":[  
+               {  
+                  "projectId":"BOFAPUN",
+                  "Account":"Bank Of America",
+                  "Duration":"12 months",
+                  "Location":"Hinj Bld-A, Pune ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"CRSUBLR",
+                  "Account":"Credit Suisse",
+                  "Duration":"6 months",
+                  "Location":"DLF Bld-C2, Bangalore",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"O2TELON",
+                  "Account":"O2 Telefonica",
+                  "Duration":"24 months",
+                  "Location":"260 Bath Road, Slough ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"PDPNPUN",
+                  "Account":"Practice Dep Pool",
+                  "Duration":"6 months",
+                  "Location":"DLF Q3, Pune ",
+                  "Billable":"Non Billable"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "371928":[  
+         {  
+            "name":"Pooja Patil",
+            "projectDetails":[  
+               {  
+                  "projectId":"BOFAPUN",
+                  "Account":"Bank Of America",
+                  "Duration":"12 months",
+                  "Location":"Hinj Bld-A, Pune ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"CRSUBLR",
+                  "Account":"Credit Suisse",
+                  "Duration":"6 months",
+                  "Location":"DLF Bld-C2, Bangalore",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"O2TELON",
+                  "Account":"O2 Telefonica",
+                  "Duration":"24 months",
+                  "Location":"260 Bath Road, Slough ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"PDPNPUN",
+                  "Account":"Practice Dep Pool",
+                  "Duration":"6 months",
+                  "Location":"DLF Q3, Pune ",
+                  "Billable":"Non Billable"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "658426":[  
+         {  
+            "name":"Pooja Patil",
+            "projectDetails":[  
+               {  
+                  "projectId":"BOFAPUN",
+                  "Account":"Bank Of America",
+                  "Duration":"12 months",
+                  "Location":"Hinj Bld-A, Pune ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"CRSUBLR",
+                  "Account":"Credit Suisse",
+                  "Duration":"6 months",
+                  "Location":"DLF Bld-C2, Bangalore",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"O2TELON",
+                  "Account":"O2 Telefonica",
+                  "Duration":"24 months",
+                  "Location":"260 Bath Road, Slough ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"PDPNPUN",
+                  "Account":"Practice Dep Pool",
+                  "Duration":"6 months",
+                  "Location":"DLF Q3, Pune ",
+                  "Billable":"Non Billable"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "741369":[  
+         {  
+            "name":"Pooja Patil",
+            "projectDetails":[  
+               {  
+                  "projectId":"BOFAPUN",
+                  "Account":"Bank Of America",
+                  "Duration":"12 months",
+                  "Location":"Hinj Bld-A, Pune ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"CRSUBLR",
+                  "Account":"Credit Suisse",
+                  "Duration":"6 months",
+                  "Location":"DLF Bld-C2, Bangalore",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"O2TELON",
+                  "Account":"O2 Telefonica",
+                  "Duration":"24 months",
+                  "Location":"260 Bath Road, Slough ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"PDPNPUN",
+                  "Account":"Practice Dep Pool",
+                  "Duration":"6 months",
+                  "Location":"DLF Q3, Pune ",
+                  "Billable":"Non Billable"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "314869":[  
+         {  
+            "name":"Pooja Patil",
+            "projectDetails":[  
+               {  
+                  "projectId":"BOFAPUN",
+                  "Account":"Bank Of America",
+                  "Duration":"12 months",
+                  "Location":"Hinj Bld-A, Pune ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"CRSUBLR",
+                  "Account":"Credit Suisse",
+                  "Duration":"6 months",
+                  "Location":"DLF Bld-C2, Bangalore",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"O2TELON",
+                  "Account":"O2 Telefonica",
+                  "Duration":"24 months",
+                  "Location":"260 Bath Road, Slough ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"PDPNPUN",
+                  "Account":"Practice Dep Pool",
+                  "Duration":"6 months",
+                  "Location":"DLF Q3, Pune ",
+                  "Billable":"Non Billable"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "8822664":[  
+         {  
+            "name":"Pooja Patil",
+            "projectDetails":[  
+               {  
+                  "projectId":"BOFAPUN",
+                  "Account":"Bank Of America",
+                  "Duration":"12 months",
+                  "Location":"Hinj Bld-A, Pune ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"CRSUBLR",
+                  "Account":"Credit Suisse",
+                  "Duration":"6 months",
+                  "Location":"DLF Bld-C2, Bangalore",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"O2TELON",
+                  "Account":"O2 Telefonica",
+                  "Duration":"24 months",
+                  "Location":"260 Bath Road, Slough ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"PDPNPUN",
+                  "Account":"Practice Dep Pool",
+                  "Duration":"6 months",
+                  "Location":"DLF Q3, Pune ",
+                  "Billable":"Non Billable"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "142558":[  
+         {  
+            "name":"Pooja Patil",
+            "projectDetails":[  
+               {  
+                  "projectId":"BOFAPUN",
+                  "Account":"Bank Of America",
+                  "Duration":"12 months",
+                  "Location":"Hinj Bld-A, Pune ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"CRSUBLR",
+                  "Account":"Credit Suisse",
+                  "Duration":"6 months",
+                  "Location":"DLF Bld-C2, Bangalore",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"O2TELON",
+                  "Account":"O2 Telefonica",
+                  "Duration":"24 months",
+                  "Location":"260 Bath Road, Slough ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"PDPNPUN",
+                  "Account":"Practice Dep Pool",
+                  "Duration":"6 months",
+                  "Location":"DLF Q3, Pune ",
+                  "Billable":"Non Billable"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "986532":[  
+         {  
+            "name":"Sachin Tendulkar",
+            "projectDetails":[  
+               {  
+                  "projectId":"BOFAPUN",
+                  "Account":"Bank Of America",
+                  "Duration":"12 months",
+                  "Location":"Hinj Bld-A, Pune ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"CRSUBLR",
+                  "Account":"Credit Suisse",
+                  "Duration":"6 months",
+                  "Location":"DLF Bld-C2, Bangalore",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"O2TELON",
+                  "Account":"O2 Telefonica",
+                  "Duration":"24 months",
+                  "Location":"260 Bath Road, Slough ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"PDPNPUN",
+                  "Account":"Practice Dep Pool",
+                  "Duration":"6 months",
+                  "Location":"DLF Q3, Pune ",
+                  "Billable":"Non Billable"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "251436":[  
+         {  
+            "name":"Santosh Kamble",
+            "projectDetails":[  
+               {  
+                  "projectId":"BOFAPUN",
+                  "Account":"Bank Of America",
+                  "Duration":"12 months",
+                  "Location":"Hinj Bld-A, Pune ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"CRSUBLR",
+                  "Account":"Credit Suisse",
+                  "Duration":"6 months",
+                  "Location":"DLF Bld-C2, Bangalore",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"O2TELON",
+                  "Account":"O2 Telefonica",
+                  "Duration":"24 months",
+                  "Location":"260 Bath Road, Slough ",
+                  "Billable":"Y/100%"
+               },
+               {  
+                  "projectId":"PDPNPUN",
+                  "Account":"Practice Dep Pool",
+                  "Duration":"6 months",
+                  "Location":"DLF Q3, Pune ",
+                  "Billable":"Non Billable"
+               }
+            ]
+         }
+      ]
+   }
+]
